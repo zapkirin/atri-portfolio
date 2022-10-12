@@ -1,0 +1,17 @@
+{
+  "folders": {
+    "root": {
+      "id": "root",
+      "name": "/",
+      "parentId": ""
+    },
+    "f10bb499-ec69-4660-bc5c-8007fe4a2780": {
+      "name": "portfolio clone",
+      "id": "f10bb499-ec69-4660-bc5c-8007fe4a2780",
+      "parentId": "root"
+    }
+  },
+  "pages": {
+    "home": "root"
+  }
+}
